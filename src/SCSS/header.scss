@@ -1,0 +1,6 @@
+body {
+    background: $red;
+}
+.title {
+    @include text(80px, rgb(167, 60, 60));
+}
